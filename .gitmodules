@@ -76,6 +76,11 @@
 	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../../platform/prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/konan"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/androidx/konan
+	url = ../../platform/prebuilts/androidx/konan
 [submodule "platform/prebuilts/androidx/traceprocessor"]
 	branch = androidx-main
 	shallow = true
