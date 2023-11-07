@@ -191,16 +191,16 @@
 	shallow = true
 	path = tools/repohooks
 	url = ../../platform/tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r23"]
+[submodule "toolchain/prebuilts/ndk-darwin/r25"]
 	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-darwin/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk-darwin/r23
-[submodule "toolchain/prebuilts/ndk/r23"]
+	url = ../../toolchain/prebuilts/ndk-darwin/r25
+[submodule "toolchain/prebuilts/ndk/r25"]
 	branch = main
 	shallow = true
 	path = prebuilts/fullsdk-linux/ndk-bundle
-	url = ../../toolchain/prebuilts/ndk/r23
+	url = ../../toolchain/prebuilts/ndk/r25
 [submodule "tools/fetch_artifact"]
 	branch = main
 	shallow = true
