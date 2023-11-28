@@ -1,7 +1,6 @@
 /build/make
 /external/abseil-cpp
 /external/dokka
-/external/google-benchmark
 /external/icing
 /external/icu
 /external/ink-stroke-modeler
