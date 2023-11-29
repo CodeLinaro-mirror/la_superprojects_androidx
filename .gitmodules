@@ -7,11 +7,6 @@
 	shallow = true
 	path = external/abseil-cpp
 	url = ../../platform/external/abseil-cpp
-[submodule "platform/external/dokka"]
-	branch = main
-	shallow = true
-	path = external/dokka
-	url = ../../platform/external/dokka
 [submodule "platform/external/icing"]
 	branch = androidx-main
 	shallow = true
