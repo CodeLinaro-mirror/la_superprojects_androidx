@@ -106,6 +106,11 @@
 	shallow = true
 	path = prebuilts/fullsdk-darwin/build-tools
 	url = ../../platform/prebuilts/fullsdk-darwin/build-tools
+[submodule "platform/prebuilts/fullsdk-darwin/cmdline-tools"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/fullsdk-darwin/cmdline-tools
+	url = ../../platform/prebuilts/fullsdk-darwin/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-darwin/platform-tools"]
 	branch = androidx-main
 	shallow = true
@@ -121,6 +126,11 @@
 	shallow = true
 	path = prebuilts/fullsdk-linux/build-tools
 	url = ../../platform/prebuilts/fullsdk-linux/build-tools
+[submodule "platform/prebuilts/fullsdk-linux/cmdline-tools"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/fullsdk-linux/cmdline-tools
+	url = ../../platform/prebuilts/fullsdk-linux/cmdline-tools
 [submodule "platform/prebuilts/fullsdk-linux/platform-tools"]
 	branch = androidx-main
 	shallow = true
