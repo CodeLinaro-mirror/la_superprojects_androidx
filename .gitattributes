@@ -30,6 +30,7 @@
 /prebuilts/fullsdk-darwin/platforms
 /prebuilts/fullsdk-darwin/sources
 /prebuilts/jdk/jdk17
+/prebuilts/jdk/jdk21
 /prebuilts/fullsdk-darwin/ninja notdefault platform-darwin
 /prebuilts/fullsdk-linux/ninja platform-linux notdefault
 /prebuilts/protobuf

@@ -156,6 +156,11 @@
 	shallow = true
 	path = prebuilts/jdk/jdk17
 	url = ../../platform/prebuilts/jdk/jdk17
+[submodule "platform/prebuilts/jdk/jdk21"]
+	branch = main
+	shallow = true
+	path = prebuilts/jdk/jdk21
+	url = ../../platform/prebuilts/jdk/jdk21
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	branch = main
 	shallow = true
