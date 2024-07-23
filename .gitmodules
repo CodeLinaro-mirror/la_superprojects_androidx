@@ -66,6 +66,11 @@
 	shallow = true
 	path = prebuilts/androidx/external
 	url = ../../platform/prebuilts/androidx/external
+[submodule "platform/prebuilts/androidx/ink"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/androidx/ink
+	url = ../../platform/prebuilts/androidx/ink
 [submodule "platform/prebuilts/androidx/internal"]
 	branch = androidx-main
 	shallow = true
