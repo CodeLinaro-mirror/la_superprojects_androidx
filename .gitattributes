@@ -10,6 +10,7 @@
 /external/webview_support_interfaces
 /frameworks/support
 /golden
+/prebuilts/androidx/chrome-for-testing
 /prebuilts/androidx/exoplayer
 /prebuilts/androidx/external
 /prebuilts/androidx/ink

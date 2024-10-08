@@ -56,6 +56,11 @@
 	shallow = true
 	path = golden
 	url = ../../platform/frameworks/support-golden
+[submodule "platform/prebuilts/androidx/chrome-for-testing"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/androidx/chrome-for-testing
+	url = ../../platform/prebuilts/androidx/chrome-for-testing
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	branch = androidx-main
 	shallow = true
