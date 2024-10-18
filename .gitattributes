@@ -15,6 +15,7 @@
 /prebuilts/androidx/external
 /prebuilts/androidx/ink
 /prebuilts/androidx/internal
+/prebuilts/androidx/javascript-for-kotlin
 /prebuilts/androidx/konan
 /prebuilts/androidx/traceprocessor
 /prebuilts/build-tools platform-linux notdefault

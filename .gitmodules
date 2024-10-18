@@ -81,6 +81,11 @@
 	shallow = true
 	path = prebuilts/androidx/internal
 	url = ../../platform/prebuilts/androidx/internal
+[submodule "platform/prebuilts/androidx/javascript-for-kotlin"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/androidx/javascript-for-kotlin
+	url = ../../platform/prebuilts/androidx/javascript-for-kotlin
 [submodule "platform/prebuilts/androidx/konan"]
 	branch = androidx-main
 	shallow = true
