@@ -102,7 +102,7 @@
 	path = prebuilts/build-tools
 	url = ../../platform/prebuilts/build-tools
 [submodule "platform/prebuilts/checkstyle"]
-	branch = main
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/checkstyle
 	url = ../../platform/prebuilts/checkstyle
