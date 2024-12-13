@@ -101,6 +101,11 @@
 	shallow = true
 	path = prebuilts/androidx/traceprocessor
 	url = ../../platform/prebuilts/androidx/traceprocessor
+[submodule "platform/prebuilts/androidx/xr"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/androidx/xr
+	url = ../../platform/prebuilts/androidx/xr
 [submodule "platform/prebuilts/build-tools"]
 	branch = androidx-main
 	shallow = true
