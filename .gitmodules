@@ -222,7 +222,7 @@
 	path = tools/repohooks
 	url = ../../platform/tools/repohooks
 [submodule "toolchain/prebuilts/ndk-darwin/r27"]
-	branch = main
+	branch = androidx-main
 	shallow = true
 	path = prebuilts/fullsdk-darwin/ndk-bundle
 	url = ../../toolchain/prebuilts/ndk-darwin/r27
