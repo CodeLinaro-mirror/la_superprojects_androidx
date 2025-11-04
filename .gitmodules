@@ -186,11 +186,6 @@
 	shallow = true
 	path = prebuilts/fullsdk-darwin/sources
 	url = ../../platform/prebuilts/fullsdk/sources
-[submodule "platform/prebuilts/jdk/jdk17"]
-	branch = androidx-main
-	shallow = true
-	path = prebuilts/jdk/jdk17
-	url = ../../platform/prebuilts/jdk/jdk17
 [submodule "platform/prebuilts/jdk/jdk21"]
 	branch = androidx-main
 	shallow = true
