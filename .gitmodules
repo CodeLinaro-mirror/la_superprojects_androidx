@@ -191,6 +191,11 @@
 	shallow = true
 	path = prebuilts/jdk/jdk21
 	url = ../../platform/prebuilts/jdk/jdk21
+[submodule "platform/prebuilts/jdk/jdk25"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/jdk/jdk25
+	url = ../../platform/prebuilts/jdk/jdk25
 [submodule "platform/prebuilts/ninja/darwin-x86"]
 	branch = androidx-main
 	shallow = true
