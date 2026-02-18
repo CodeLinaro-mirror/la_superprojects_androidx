@@ -71,6 +71,11 @@
 	shallow = true
 	path = prebuilts/androidx/chrome-for-testing
 	url = ../../platform/prebuilts/androidx/chrome-for-testing
+[submodule "platform/prebuilts/androidx/credentials"]
+	branch = androidx-main
+	shallow = true
+	path = prebuilts/androidx/credentials
+	url = ../../platform/prebuilts/androidx/credentials
 [submodule "platform/prebuilts/androidx/exoplayer"]
 	branch = androidx-main
 	shallow = true

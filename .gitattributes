@@ -13,6 +13,7 @@
 /frameworks/support
 /golden
 /prebuilts/androidx/chrome-for-testing
+/prebuilts/androidx/credentials
 /prebuilts/androidx/exoplayer
 /prebuilts/androidx/external
 /prebuilts/androidx/ink
