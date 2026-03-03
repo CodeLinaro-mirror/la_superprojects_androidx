@@ -1,7 +1,7 @@
 /build/make
 /external/abseil-cpp
+/external/compose-hero-benchmarks/pokedex-compose
 /external/compose-hero-benchmarks/pokedex-views
-/external/compose-hero-benchmarks/poxedex-compose
 /external/icing
 /external/icu
 /external/ink-stroke-modeler

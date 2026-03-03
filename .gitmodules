@@ -7,16 +7,16 @@
 	shallow = true
 	path = external/abseil-cpp
 	url = ../../platform/external/abseil-cpp
+[submodule "platform/external/compose-hero-benchmarks/pokedex-compose"]
+	branch = androidx-main
+	shallow = true
+	path = external/compose-hero-benchmarks/pokedex-compose
+	url = ../../platform/external/compose-hero-benchmarks/pokedex-compose
 [submodule "platform/external/compose-hero-benchmarks/pokedex-views"]
 	branch = androidx-main
 	shallow = true
 	path = external/compose-hero-benchmarks/pokedex-views
 	url = ../../platform/external/compose-hero-benchmarks/pokedex-views
-[submodule "platform/external/compose-hero-benchmarks/poxedex-compose"]
-	branch = androidx-main
-	shallow = true
-	path = external/compose-hero-benchmarks/poxedex-compose
-	url = ../../platform/external/compose-hero-benchmarks/poxedex-compose
 [submodule "platform/external/icing"]
 	branch = androidx-main
 	shallow = true
