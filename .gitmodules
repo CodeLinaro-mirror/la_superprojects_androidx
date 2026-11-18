@@ -244,12 +244,12 @@
 [submodule "toolchain/prebuilts/ndk-darwin/r27"]
 	branch = androidx-main
 	shallow = true
-	path = prebuilts/fullsdk-darwin/ndk-bundle
+	path = prebuilts/fullsdk-darwin/ndk/27.0.12077973
 	url = ../../toolchain/prebuilts/ndk-darwin/r27
 [submodule "toolchain/prebuilts/ndk/r27"]
 	branch = androidx-main
 	shallow = true
-	path = prebuilts/fullsdk-linux/ndk-bundle
+	path = prebuilts/fullsdk-linux/ndk/27.0.12077973
 	url = ../../toolchain/prebuilts/ndk/r27
 [submodule "tools/fetch_artifact"]
 	branch = androidx-main

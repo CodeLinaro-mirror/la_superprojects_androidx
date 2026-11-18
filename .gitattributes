@@ -47,6 +47,6 @@
 /tools/external/gradle remote-review=android
 /tools/metalava remote-review=android
 /tools/repohooks remote-review=android
-/prebuilts/fullsdk-darwin/ndk-bundle notdefault platform-darwin remote-review=android
-/prebuilts/fullsdk-linux/ndk-bundle platform-linux notdefault remote-review=android
+/prebuilts/fullsdk-darwin/ndk/27.0.12077973 notdefault platform-darwin remote-review=android
+/prebuilts/fullsdk-linux/ndk/27.0.12077973 platform-linux notdefault remote-review=android
 /tools/fetch_artifact remote-review=android
