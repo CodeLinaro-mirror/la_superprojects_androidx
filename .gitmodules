@@ -241,16 +241,16 @@
 	shallow = true
 	path = tools/repohooks
 	url = ../../platform/tools/repohooks
-[submodule "toolchain/prebuilts/ndk-darwin/r27"]
+[submodule "toolchain/prebuilts/ndk-darwin/r30"]
 	branch = androidx-main
 	shallow = true
-	path = prebuilts/fullsdk-darwin/ndk/27.0.12077973
-	url = ../../toolchain/prebuilts/ndk-darwin/r27
-[submodule "toolchain/prebuilts/ndk/r27"]
+	path = prebuilts/fullsdk-darwin/ndk/30.0.16248370
+	url = ../../toolchain/prebuilts/ndk-darwin/r30
+[submodule "toolchain/prebuilts/ndk/r30"]
 	branch = androidx-main
 	shallow = true
-	path = prebuilts/fullsdk-linux/ndk/27.0.12077973
-	url = ../../toolchain/prebuilts/ndk/r27
+	path = prebuilts/fullsdk-linux/ndk/30.0.16248370
+	url = ../../toolchain/prebuilts/ndk/r30
 [submodule "tools/fetch_artifact"]
 	branch = androidx-main
 	shallow = true
